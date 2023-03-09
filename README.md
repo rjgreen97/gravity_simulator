@@ -2,6 +2,8 @@
 Do you long for a universe where you can send planets crashing into eachother for no apparent reason? Well, you're in luck!
 This is so realistic, it'll make you feel like you're floating in outer space without a care in the world.
 
+![alt tag](docs/space.png)
+
 # Install Steps
 ## 1) Clone the Repo
 ## 2) Install Requirements
