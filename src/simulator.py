@@ -1,6 +1,4 @@
 import tkinter as tk
-import math
-import random
 
 from src.body import Body
 from src.vector import Vector
