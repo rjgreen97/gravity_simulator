@@ -14,4 +14,4 @@ brew intall python-tk
 ```
 python3 -m src.simulator
 ```
-## 4) Increase Entropy
+## 4) Gradual Decline into Disorder
